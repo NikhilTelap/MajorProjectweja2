@@ -13,8 +13,7 @@ form {
   border: 0;
  
 }
-/* Style the h1 tag */
-h2 {
+ h2 {
   font-size: 36px; 
   font-weight: bold;
   color: #333;
@@ -89,6 +88,7 @@ h2 {
 
         <input class="submit-button" type="submit" value="Register Customer">
     </form>
-    </div>
+     </div>
+    
 </body>
 </html>
