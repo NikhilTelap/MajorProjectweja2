@@ -1,6 +1,5 @@
 package com.jspiders.gymmanagementsystem.repository;
 
-import org.springframework.beans.propertyeditors.CustomMapEditor;
 import org.springframework.stereotype.Repository;
 
 import com.jspiders.gymmanagementsystem.pojo.CustomerPOJO;

@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>WELCOME TO GYM MANAGEMENT SYSTEM</h2>
 </body>
 </html>
 
