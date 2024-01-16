@@ -13,6 +13,12 @@ form {
   border: 0;
  
 }
+
+.customer-button {
+  background-color: #27ae60; /* Custom color for the "Customer" button */
+  height: 20px;
+  width: 40px;
+}
  h2 {
   font-size: 36px; 
   font-weight: bold;
@@ -57,6 +63,7 @@ form {
   border: 0;
   border-radius: 3px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 
@@ -87,6 +94,9 @@ form {
         <input class="input" type="text" name="time" required><br>
 
         <input class="submit-button" type="submit" value="Register Customer">
+        <br>
+        <a class="submit-button" id="homepage" href="http://localhost:8080/gymmanagementsystem/homePage">Back</a> 
+       
     </form>
      </div>
     

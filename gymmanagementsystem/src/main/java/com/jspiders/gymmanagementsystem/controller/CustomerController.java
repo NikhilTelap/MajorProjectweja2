@@ -17,12 +17,17 @@ public class CustomerController {
 	private CustomerService service;
 
 
+	@GetMapping("/homePage")
+	public String homePage() {
+		return "Home";
+	}
+	
+
 	@GetMapping("/customerPage")
 	public String customerPage() {
 		
 		return "Customer";
 	}
-	
 	
 	@PostMapping("/customer")
 	public String customer(@RequestParam String name,

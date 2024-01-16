@@ -88,6 +88,9 @@ h2 {
         <input class="input" type="text" name="time" required><br>
 
         <input class="submit-button" type="submit" value="Register Trainer">
+         <a class="button customer-button" id="homepage" href="http://localhost:8080/gymmanagementsystem/homePage">Back</a> 
+        
+        
     </form>
     </div>
 </body>
